@@ -67,6 +67,10 @@ __b.lock Password Manager__, [repository](https://github.com/BlockProject/b-lock
 - b.lock is a [Chrome extension](https://chrome.google.com/webstore/detail/block-password-manager/hjbpkcanpblbdfeoogkbpkbjmacakmjn) that helps users manage passwords and secret notes in a secure and trustless way
 - Data is encrypted and stored on a public blockchain
 
+`Explorations with Rust`
+__Merkle Tree__ [repository](https://github.com/roynalnaruto/rs_merkle_tree)
+
+- An attempt at implementing Merkle Tree in Rust, while getting started with Rust programming
 
 ## Work Experience
 
