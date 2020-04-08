@@ -54,6 +54,13 @@ __College of Computing, Georgia Institute of Technology__
 
 
 ## Personal Projects
+`2020`
+__RsTx__, [repository](https://github.com/roynalnaruto/rs_tx_client)
+
+- Rust client to implement Stealth Addresses for Ethereum.
+- The implementation is based on [ECDH protocol](https://en.bitcoin.it/wiki/ECDH_address)
+- [Smart contract](https://github.com/roynalnaruto/rs_tx_contracts) on Ethereum is used to persist and communicate the nonce point
+- [Subgraph](https://github.com/roynalnaruto/rs_tx_subgraph), powered by [The Graph](https://thegraph.com/) is used to query Ethereum blockchain
 
 `2020`
 __ZeKstament__, [repository](https://github.com/roynalnaruto/ZeKstament)
