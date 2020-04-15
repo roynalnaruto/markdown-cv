@@ -63,6 +63,13 @@ __RsTx__, [repository](https://github.com/roynalnaruto/rs_tx_client)
 - [Subgraph](https://github.com/roynalnaruto/rs_tx_subgraph), powered by [The Graph](https://thegraph.com/) is used to query Ethereum blockchain
 
 `2020`
+__Guess My Word__ (In Progress), [repository](https://github.com/roynalnaruto/guessmyword)
+
+- A Proof of Concept project for playing the [Guess My Word](https://hryanjones.com/guess-my-word/) game
+- Operator provides a zkSNARK proof for the verdict
+- Game player can verify the soundness of provided verdict
+
+`2020`
 __ZeKstament__, [repository](https://github.com/roynalnaruto/ZeKstament)
 
 - a ÐApp powered by [AZTEC Protocol](https://www.aztecprotocol.com/), that lets users create a zero knowledge testament for their Crypto Assets
