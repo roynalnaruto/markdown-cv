@@ -55,6 +55,13 @@ __College of Computing, Georgia Institute of Technology__
 
 ## Personal Projects
 `2020`
+__Zero Knowledge Range Proofs__ [repository](https://github.com/roynalnaruto/range_proof)
+
+- Pure Rust implementation of the ZK Range Proofs protocol described [here](https://hackmd.io/@dabo/B1U4kx8XI)
+- Prover can prove to Verifier that a number of their choice lies in a range [0, 2^n)
+- Protocol depends on a Polynomial Commitment Scheme
+
+`2020`
 __RsTx__, [repository](https://github.com/roynalnaruto/rs_tx_client)
 
 - Rust client to implement Stealth Addresses for Ethereum.
@@ -81,10 +88,6 @@ __b.lock Password Manager__, [repository](https://github.com/BlockProject/b-lock
 - b.lock is a [Chrome extension](https://chrome.google.com/webstore/detail/block-password-manager/hjbpkcanpblbdfeoogkbpkbjmacakmjn) that helps users manage passwords and secret notes in a secure and trustless way
 - Data is encrypted and stored on a public blockchain
 
-`Explorations with Rust`
-__Merkle Tree__ [repository](https://github.com/roynalnaruto/rs_merkle_tree)
-
-- An attempt at implementing Merkle Tree in Rust, while getting started with Rust programming
 
 ## Work Experience
 
